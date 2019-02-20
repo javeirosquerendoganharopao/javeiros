@@ -1,0 +1,2 @@
+# javeiros
+Os Javeiros podem ser um pouco duros às vezes, talvez você não saiba disso, mas os Javeiros também cresceram sem pai. Na verdade eles nunca conheceram nenhum dos Ceo's da SUN, e nunca teve nenhum amigo em nossa profissão. Mesmo assim eu nunca vi eles chorarem, ficarem zangados ou se dar por vencido, eles estão sempre dispostos a fazer gambiarras, eles querem ser respeitados, é o sonho deles e os Javeiros dariam uma desculpa por isso sem hesitar. Meu palpite é que eles se cansou de chorar pra NullPointer e decidiu fazer alguma Exception a respeito! 
